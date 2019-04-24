@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556106075852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "26B957DC",
+    "lastKnownWriteTime" : 1556106338,
+    "last_content_update" : 1556106338689,
+    "path" : "~/try1/man/myFunc.RD",
+    "project_path" : "man/myFunc.RD",
+    "properties" : {
+        "cursorPosition" : "16,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
